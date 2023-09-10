@@ -13,4 +13,5 @@
 <br>
 <h3>Future Plans with the Site</h3>
 <p>This repository will be conintually updated as I also update my website. I am currently planning to have a seperate sub-page for each project I put on the website. I am also planning on having other sub-pages where I show off my friends art, and a sub-page where I simply blog about my cybersecurity journey.</p>
-
+<h3>9/10/23 Update</h3>
+<p>For my updated today I reworked certain portions of the website I was unhappy with. To begin, I </p>

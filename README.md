@@ -1,5 +1,5 @@
 <H1>Developing my Website!</H1>
-<a href="https://tylerdeal.net/hub.html">Click here to view the actual site!</a>
+<a href="https://tylerdeal.net">Click here to view the actual site!</a>
 <br>
 <h3>Origins of this Project.</h3>
 <p>I've always wanted to code my own website, in my own style. I felt this would be an excellent learning experience for me as I can get familiar with the web hosting process and refresh my html/css skills. I wanted to create a website that felt very true to me and my style. I didnt feel the need to create an overly fancy website full of javascript because I wanted a simple website that felt like something from the old internet. I wanted this website to be something that I can always keep updated with anything I work on.</p>

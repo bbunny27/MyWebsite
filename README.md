@@ -19,4 +19,4 @@
 <h3>9/12/2023 Update</h3>
 <p>Today the update may seem mundain but for me its an awesome addition. I am finally adding my second project to the website! The next addition (that I will add sometime this week) will be dedicated blog pages. This is in order to clean up the blog page on my website and allow for more space to talk about the projects! </p>
 <h3>9/13/2023 Update</h3>
-<p>Well its the next day and I added the Blog pages! I'm super excited about this and I'm pretty happy with how they turned out. I've been doing a lot of reasearch (looking at other tech peoples silly tech websites! Specifically<a href="oat.zone"> this one</a> and the rest of their lavender webring.</p>
+<p>Well its the next day and I added the Blog pages! I'm super excited about this and I'm pretty happy with how they turned out. I've been doing a lot of reasearch (looking at other tech peoples silly tech websites! Specifically<a href="https://oat.zone"> this one</a> and the rest of their lavender webring.</p>

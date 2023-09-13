@@ -18,3 +18,5 @@
 <p>The Nav bar was also an addition that I wanted. I was able to create a basic navigation bar with my prior knowledge of linking, and then as I researched Nav Bars I saw that HTML has a build in hover function, so between those two I was able to set up a simple but effective Nav bar that is now on the top of every page on the site to help the end user navigate it easier.</p>
 <h3>9/12/2023 Update</h3>
 <p>Today the update may seem mundain but for me its an awesome addition. I am finally adding my second project to the website! The next addition (that I will add sometime this week) will be dedicated blog pages. This is in order to clean up the blog page on my website and allow for more space to talk about the projects! </p>
+<h3>9/13/2023 Update</h3>
+<p>Well its the next day and I added the Blog pages! I'm super excited about this and I'm pretty happy with how they turned out. I've been doing a lot of reasearch</p>

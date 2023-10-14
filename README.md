@@ -23,3 +23,5 @@
 <h3>9/14/2023 Update</h3>
 <p>I feel like these updates are happening nearly daily. I'm proud of that and I'm feeling extra motivated at the moment to work on this website and get it to a place I am happy with. I still havent published today or yesterday's update but I hopefully will tonight! For this update I just further worked on the contact page and began to type some stuff out for the python encryptor/decryptor blog. I may start another blog today as well!</p>
 <p>Further Entry. I finished the blog for the python encryptor. Feels good to have two completed blog post. The next one is gonna be interesting! (its arch related btw)</p>
+<h3>10/14/2023 Update</h3>
+<p>Added the blog for my python keylogger today! Super excited. I also changed the website design for more consistent appearance and theme across the different subpages.</p>
